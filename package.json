@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "name": "tugas-minggu-ke-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "nodemon task1.js",
+    "task2": "nodemon task2.js",
+    "task3": "nodemon task3.js",
+    "task4": "nodemon task4.js"
+  },
+  "keywords": [],
+  "author": "Gyga Maulana",
+  "license": "ISC",
+  "description": "Tugas"
+}
